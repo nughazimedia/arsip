@@ -29,28 +29,29 @@ document.write(monthname[month] + " ");
  // January
  if ((month == 0) && (date == 1)) document.write("New Year's Day");
  // February
- if ((month == 1) && (date == 2)) document.write("Groundhog Day");
+ if ((month == 1) && (date == 2)) document.write("");
  // March
- if ((month == 2) && (date == 3)) document.write("Girl's Day (Japan)");
+ if ((month == 2) && (date == 3)) document.write("");
  // April
- if ((month == 3) && (date == 1)) document.write("April Fools' Day");
- if ((month == 3) && (day == 0) && (date > 0) && (date< 8)) document.write("Daylight Savings Time Begins");
+ if ((month == 3) && (date == 1)) document.write("");
+ if ((month == 3) && (day == 0) && (date > 0) && (date< 8)) document.write("");
  // May
- if ((month == 4) && (day == 1) && (date > 24)) document.write("Memorial Day");
+ if ((month == 4) && (day == 1) && (date > 24)) document.write("");
  // June
- if ((month == 5) && (day == 0) && (date > 15) && (date< 24)) document.write("Father's Day");
+ if ((month == 5) && (day == 0) && (date > 15) && (date< 24)) document.write("");
  // July
- if ((month == 6) && (date == 1)) document.write("Independence Day (Canada)");
+ if ((month == 6) && (date == 1)) document.write("");
  // August
- if ((month == 7) && (date == 1)) document.write("Confederation Day (Switzerland)");
+ if ((month == 7) && (date == 1)) document.write("");
  // September
- if ((month == 8) && (date == 7)) document.write("Independence Day (Brazil)");
+ if ((month == 8) && (date == 7)) document.write("");
  // October
- if ((month == 9) && (date == 1)) document.write("German Reunufication (1990)");
+ if ((month == 9) && (day == 4) && (date > 27) && (date< 30)) document.write("Peluncuran aplikasi KANAL PERSIS");
+ if ((month == 9) && (date > 27) && (date == 31)) document.write("LIVE Kajian Ahad (Jihad) dapat disaksikan secara live di aplikasi KANAL PERSIS setiap hari Ahad mulai pukul 07.00 WIB");
  // November
- if ((month == 10) && (day == 4) && (date > 27) && (date< 30)) document.write("Thanksgiving (USA)");
- if ((month == 10) && (date == 30) && (day == 4)) document.write("Thanksgiving (USA)");
+ if ((month == 10) && (day == 4) && (date > 27) && (date< 30)) document.write("");
+ if ((month == 10) && (date == 30) && (day == 4)) document.write("");
  // December
- if ((month == 11) && (date > 1) && (date < 31)) document.write("<center><p><h6>JADWAL KHATIB JUMAT<br>BULAN AGUSTUS MINGGU KE-1<br>Tanggal : 12 Agustus 2020</p></center><table><tr><td><b>JAMA'AH</b><br>1. Bantargedang</td><td><b>KHATIB</b><br>: Tatang Muttaqin</td></tr></table>");
+ if ((month == 11) && (date > 1) && (date < 31)) document.write("");
  document.write("<br />");
 //-->
