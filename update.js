@@ -1,7 +1,7 @@
 //store the quotations in arrays
 quotes = [];
 authors = [];
-authors[0] = "https://play.google.com/apps/test/com.nughazimedia.kanalpersis/10102";
+authors[0] = "https://play.google.com/store/apps/details?id=com.nughazimedia.kanalpersis";
 //calculate a random index number
 index = Math.floor(Math.random() * quotes.length);
 //display the quotation
