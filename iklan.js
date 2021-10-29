@@ -3,6 +3,7 @@ var seqslides=new Array()
 seqslides[0]=["img/iklan/1.jpg", "http://www.persisbungursari.or.id"]
 seqslides[1]=["img/iklan/2.jpg", "https://www.nughazimedia.com"]
 seqslides[2]=["img/iklan/3.jpg", ""]
+seqslides[3]=["https://blogger.googleusercontent.com/img/a/AVvXsEiyst9ZVbj4btsEjkoR_UQmDcOA4Nc_htWy-Yd8fGAxdrpYBgKpW70_XigAqMOnVB-RNTUpgzRf0jMuG65LA93ytcHNxzD27Aro2ECHR_RcrhPhxvgLzNXvcGlEN18j6SeWK7AP1_-wpkWcnFJ2NrEzVwJY0ba5-LnoeLN6Rt6jMoD_Uak9SVcbXQyc2g=s1200", "https://kitasaudara.org/program/muktamar_xvi_persatuan_islam"]
 
 //Set pause between each image display (2000=2 second):
 var slidedelay=4000
