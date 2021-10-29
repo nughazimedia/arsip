@@ -6,6 +6,6 @@ authors[0] = "https://play.google.com/apps/test/com.nughazimedia.kanalpersis/101
 index = Math.floor(Math.random() * quotes.length);
 //display the quotation
 document.write("<center>\n");
-document.write("" + "<a href=" + authors[index] + ">UPDATE ke Versi 1.0.1</a>" + "");
+document.write("" + "<a href=" + authors[index] + ">UPDATE ke Versi 1.3.4</a>" + "");
 document.write("</center>\n");
 //done
