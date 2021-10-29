@@ -47,7 +47,7 @@ document.write(monthname[month] + " ");
  if ((month == 8) && (date == 7)) document.write("");
  // October
  if ((month == 9) && (day == 4) && (date > 27) && (date< 30)) document.write("Peluncuran aplikasi KANAL PERSIS");
- if ((month == 9) && (date > 27) && (date == 31)) document.write("LIVE Kajian Ahad (Jihad) dapat disaksikan secara live di aplikasi KANAL PERSIS setiap hari Ahad mulai pukul 07.00 WIB");
+ if ((month == 9) && (date > 27) && (date < 31)) document.write("LIVE Kajian Ahad (Jihad) dapat disaksikan secara live di aplikasi KANAL PERSIS setiap hari Ahad mulai pukul 07.00 WIB");
  // November
  if ((month == 10) && (day == 4) && (date > 27) && (date< 30)) document.write("");
  if ((month == 10) && (date == 30) && (day == 4)) document.write("");
