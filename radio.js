@@ -27,7 +27,7 @@ let track_list = [
 	 {
         name: "Nughazi Radio - Tasikmalaya",
         image: "https://yt3.googleusercontent.com/ytc/AOPolaR1CnPxAY1ypor41rgRS0Zdl-kpAXPA7UzZLgx4rA=s176-c-k-c0x00ffffff-no-rj",
-        path: "//myradiostream.com/embed/free.php?s=nughaziradio&btnstyle=default&id=598339&n=32&p=19852"
+        path: "	http://s32.myradiostream.com:19852/"
     },
 	{
         name: "Quran Live Radio - Makkah al-Mukarramah",
