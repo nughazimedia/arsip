@@ -1,7 +1,8 @@
 var videos = [
 '7WTmlq4FmlY',
 'GPp7ykvdxVI',
-'89fPcUyAm4M'
+'89fPcUyAm4M',
+'JgqLZNWXI5g'
 ];
 
 var index=Math.floor(Math.random() * videos.length);
